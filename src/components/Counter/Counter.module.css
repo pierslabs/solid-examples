@@ -1,0 +1,52 @@
+.counter {
+  padding: 20px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  color: antiquewhite;
+  margin-top: 12px;
+  margin-left: -5px;
+}
+
+h2 {
+  color: #b318f0;
+}
+hr {
+  color: #b318f0;
+}
+h3 {
+  color: #20fa03;
+  width: 100%;
+  text-decoration: underline;
+}
+h4 {
+  color: #20fa03;
+  margin-left: 10px;
+}
+.container {
+  display: flex;
+  width: 50vw;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card {
+  padding: 20px;
+  font-size: 80px;
+  color: #20fa03;
+  border: #b318f0 solid 2px;
+  width: 15vw;
+  text-align: center;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 10vh;
+}

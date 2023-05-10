@@ -1,0 +1,27 @@
+.App {
+}
+
+.logo {
+  transform: rotate(-10deg);
+}
+
+.header {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+
+  padding: 20px;
+}
+
+.link {
+  color: #b318f0;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
